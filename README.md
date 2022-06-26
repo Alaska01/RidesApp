@@ -1,3 +1,7 @@
+#Rides App Project
+- This rides app project was developed to practice the use of Redux Tool Kit in Managing state and calling APIs since a lot has be depricated of late in redux.
+- Some Links added below are links to various resources used while working on the project.
+
 # Array Filtering For Unique Array Items
 - https://dev.to/kannndev/filter-an-array-for-unique-values-in-javascript-1ion
 - https://www.samanthaming.com/tidbits/43-3-ways-to-remove-array-duplicates/
