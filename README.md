@@ -1,4 +1,4 @@
-#Rides App Project
+# Rides App Project
 - This rides app project was developed to practice the use of Redux Tool Kit in Managing state and calling APIs since a lot has be depricated of late in redux.
 - Some Links added below are links to various resources used while working on the project.
 
