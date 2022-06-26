@@ -1,24 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import User from './components/User';
+import Body from './components/Body'
+import RidesData from './components/RidesData';
+import RidesStateLists from './components/RidesStateLists';
+import DateTime1 from './components/DateTime1';
+// import DisplayRides from './components/DisplayRides';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <User />
+      <Body />
+      <RidesData />
+      <RidesStateLists />
+      <DateTime1 />
+      {/* <DisplayRides /> */}
+    </>
   );
 }
 

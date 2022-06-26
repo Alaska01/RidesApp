@@ -1,0 +1,8 @@
+.body {
+  background-color: hsl(0, 0%, 16%);
+  padding-top: 100px;
+  height: 100vh;
+  /* position: relative; */
+  /* position: 'absolute', */
+  /* bottom:0, */
+}

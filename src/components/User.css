@@ -1,0 +1,21 @@
+.navigation {
+  display: flex;
+  background-color: #101010;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.sub-navigation {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+}
+
+.img {
+  border-radius: 50%;
+  height: 60px;
+}

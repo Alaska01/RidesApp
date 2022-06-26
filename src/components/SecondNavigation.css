@@ -1,0 +1,11 @@
+.second-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.rides-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
